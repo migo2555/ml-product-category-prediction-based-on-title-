@@ -1,7 +1,5 @@
 # ml-product-category-prediction-based-on-title
 
-# ml-product-category-prediction-based-on-title
-
 This repository contains an end-to-end machine learning project for predicting product categories based on product titles. 
 The project includes data exploration, cleaning, feature engineering, model training, and evaluation.
 
